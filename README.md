@@ -7,7 +7,7 @@
 - Access the elements in an `Array`
 - Learn about nested `Array`s
 - Introduce `Array` methods
-- Understand mutability
+- Understand mutability.
 
 ## Introduction
 
